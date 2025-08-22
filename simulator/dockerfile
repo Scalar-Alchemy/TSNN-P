@@ -1,0 +1,1 @@
+docker run --runtime nvidia -v /home/nix/Desktop/TestFrontend:/app -it dustynv/pytorch:r36.4.0
